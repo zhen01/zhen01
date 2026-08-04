@@ -1,26 +1,15 @@
 # Hi, I’m Zhen Fang 👋
 
-I’m a data and analytics engineer who builds reliable, well-tested data products—from ingestion and transformation to APIs and evaluation.
+I turn messy data into dependable products—clean pipelines, useful APIs, and results you can measure.
 
-## What I’m focused on
+**Python · SQL · dbt · PostgreSQL · FastAPI · Docker**
 
-- **Data Engineering & Analytics Engineering:** Python, SQL, dbt, PostgreSQL, ETL/ELT, data quality
-- **Backend & Data Products:** FastAPI, Docker, API design, automated testing
-- **Applied NLP:** information extraction, benchmark design, and measurable model evaluation
+### A few things I’ve built
 
-## Selected projects
+- [NYC Open Data Pipeline](https://github.com/zhen01/nyc-open-data-pipeline) — live data → tested dbt models → API.
+- [JD Classifier Eval](https://github.com/zhen01/jd-classifier-eval) — benchmarked three extractors; classical NLP beat regex by **50 F1 points**.
+- [Puppy Pomodoro](https://github.com/zhen01/puppy-pomodoro) — a cheerful PyQt6 macOS focus companion.
 
-| Project | What it demonstrates |
-| --- | --- |
-| [NYC Open Data Pipeline](https://github.com/zhen01/nyc-open-data-pipeline) | End-to-end analytics pipeline using dbt, PostgreSQL, FastAPI, and a live public-data feed—with 51 dbt tests. |
-| [Job Description Classifier Evaluation](https://github.com/zhen01/jd-classifier-eval) | A reproducible comparison of three extractors against a hand-labeled gold set; classical NLP improved F1 by 50 points over a regex baseline. |
-| [Puppy Pomodoro](https://github.com/zhen01/puppy-pomodoro) | A polished macOS desktop productivity app built with PyQt6 and packaged as a native app. |
+I’m open to **Data Engineer, Analytics Engineer, and Backend Engineer** roles.
 
-## Currently seeking
-
-**Data Engineer · Analytics Engineer · Backend Engineer** opportunities where I can turn messy data and real user needs into dependable products.
-
-## Find me
-
-- Portfolio: [zhen01.vercel.app](https://zhen01.vercel.app/)
-- GitHub: [@zhen01](https://github.com/zhen01)
+[Portfolio](https://zhen01.vercel.app/) · [GitHub](https://github.com/zhen01)
