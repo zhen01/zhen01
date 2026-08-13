@@ -1,6 +1,6 @@
 # Hi 👋
 
-I turn messy data into reusable data products—clean pipelines, useful APIs, and results you can measure.
+I turn messy sources into reusable data products people can actually trust — pipelines, models, and the tests that keep them honest.
 
 **Python · SQL · dbt · PostgreSQL · FastAPI · Docker**
 
