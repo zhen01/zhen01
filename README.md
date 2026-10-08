@@ -17,10 +17,6 @@ What it shows:
 - Built SCD2 snapshot and append-only observation tables to preserve source-history signals that the API does not provide.
 - Fixed NYC-local timezone correctness in models and tests.
 
-### [Portfolio](https://zhen01.vercel.app/)
-
-Recruiter-facing project and background site.
-
 ## Current Direction
 
 I am focused on Analytics Engineering, Data Engineering, Data Platform, and AI/data tooling roles where reliability matters as much as the analysis itself.
