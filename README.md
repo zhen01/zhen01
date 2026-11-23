@@ -1,16 +1,12 @@
 # Zhen Fang
 
-I work with data to understand how products and operations perform, investigate what is going wrong, and build tools that make the next decision easier.
+I use data to understand how products perform and where operations can improve.
 
-Currently **Quality Data Analyst II at Sony Interactive Entertainment (PlayStation)**, working on global hardware quality, customer experience metrics, and data automation.
+At **PlayStation**, I work on global hardware quality and customer experience: investigating repair trends, defining performance metrics, and building the data workflows behind the analysis. I like problems that take both technical work and an understanding of how the business actually operates.
 
 B.S. in Data Science, **UC San Diego** · M.S. in Business Analytics, **Columbia University**
 
-My interests span **data science, product analytics, and data engineering**. I enjoy turning open-ended business questions into structured analysis, useful models, and reliable data workflows.
+## Projects
 
-**Python · SQL · Statistical Analysis · Machine Learning · Snowflake · dbt · Airflow**
-
-## Selected projects
-
-- **[NYC Open Data Activity Pipeline](https://github.com/zhen01/nyc-open-data-pipeline)** — A public-data application with ingestion, tested transformations, source-history tracking, and an API. Built with Python, PostgreSQL, dbt, FastAPI, and React.
-- **[Puppy Pomodoro](https://github.com/zhen01/puppy-pomodoro)** — A desktop focus timer with an always-on-top puppy, built in Python and packaged as a macOS app. A small tool for a problem I wanted to solve myself.
+- **[NYC Open Data Activity Pipeline](https://github.com/zhen01/nyc-open-data-pipeline)**: A public-data application with ingestion, tested transformations, source-history tracking, and an API. Python, PostgreSQL, dbt, FastAPI, and React.
+- **[Puppy Pomodoro](https://github.com/zhen01/puppy-pomodoro)**: A Python desktop focus timer with an always-on-top puppy, packaged as a macOS app.
