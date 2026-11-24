@@ -1,6 +1,6 @@
-# Hi, I'm Zhen.
+# Welcome.
 
-I build small, practical systems for problems I run into — organizing knowledge, coordinating AI agents, and finding more intuitive ways to interact with computers.
+A small collection of experiments.
 
 ## Selected projects
 
