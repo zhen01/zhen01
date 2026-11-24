@@ -2,7 +2,6 @@
 
 A small collection of experiments.
 
-## Selected projects
 
 ### [LearningDesk — Knowledge Atlas](https://github.com/zhen01/learningdesk-knowledge-atlas)
 
