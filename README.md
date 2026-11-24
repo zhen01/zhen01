@@ -18,8 +18,3 @@ Running multiple AI agents is easy; coordinating them is harder. Agentville turn
 
 `Node.js` · `JavaScript` · `SVG` · `Codex CLI`
 
-### [NYC Activity Discovery](https://github.com/zhen01/nyc-open-data-pipeline)
-
-Finding something to do in New York shouldn't take longer than doing it. A data pipeline that turns fragmented event listings into reliable, source-backed recommendations.
-
-`Python` · `dbt` · `Postgres` · `FastAPI`
